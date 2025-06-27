@@ -1,0 +1,4 @@
+name = "af2668bb883741b7c4e27f559c58ca4a"
+main = "./.output/server/index.mjs"
+workers_dev = true
+compatibility_date = "2022-09-10"
